@@ -8,18 +8,19 @@ into working simulations, code, and experiments.
 
 ---
 
+## Projects (Outcomes)
+- General Root Finder → https://github.com/arindam-codes/general-root-finder/tree/main
+- Law of Sines Visualizer → https://github.com/arindam-codes/Law-of-Sines-Visualizer/tree/main
+
+---
+
+
 ## Computational Physics
 - VPython simulations and experiments  
   → https://github.com/arindam-codes/learning-vpython-for-computational-physics
 
 ---
 
-## Projects (Outcomes)
-- General Root Finder → https://github.com/arindam-codes/general-root-finder/tree/main
-- Law of Sines Visualizer → https://github.com/arindam-codes/Law-of-Sines-Visualizer/tree/main
-
-
----
 
 ## Embedded Systems & Microcontrollers
 - MicroPython GPIO and LED labs  
