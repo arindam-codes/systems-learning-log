@@ -36,4 +36,10 @@ into working simulations, code, and experiments.
 
 ---
 
+## Learning Reflections
+- First semester learning decisions and corrections  
+  → https://github.com/arindam-codes/1st-month-of-1st-semeter-/tree/main
+
+---
+
 
