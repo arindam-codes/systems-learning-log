@@ -16,8 +16,8 @@ into working simulations, code, and experiments.
 
 
 ## Computational Physics
-- VPython simulations and experiments  
-  → https://github.com/arindam-codes/learning-vpython-for-computational-physics
+- Learning Physics 
+  → [Learning Physics via Simulation](https://github.com/arindam-codes/learning-vpython-for-computational-physics)
 
 ---
 
