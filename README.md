@@ -42,6 +42,11 @@ into working simulations, code, and experiments.
 
 ---
 
+## First Principle Observations
+- Observations
+ → [Observations](https://github.com/arindam-codes/first-principles-observations)
+
+---
 ## Learning Reflections
 - First semester learning decisions and corrections  
   → https://github.com/arindam-codes/1st-month-of-1st-semeter-/tree/main
