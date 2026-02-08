@@ -47,6 +47,12 @@ into working simulations, code, and experiments.
  → [Observations](https://github.com/arindam-codes/first-principles-observations)
 
 ---
+
+## Problem First Mathematics
+- Learning Mathematics 
+  → [Learing the God's Thought](https://github.com/arindam-codes/problem-first-mathematics)
+
+---
 ## Learning Reflections
 - First semester learning decisions and corrections  
   → https://github.com/arindam-codes/1st-month-of-1st-semeter-/tree/main
