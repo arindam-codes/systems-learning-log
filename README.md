@@ -21,8 +21,7 @@ into working simulations, code, and experiments.
 
 ---
 
-## First Principle Physics
-- Learning Physics 
+## First Principle Physics 
   → [Learning Physics from first principle](https://github.com/arindam-codes/Physics-From-First-Principles)
 
   → [Build to Learn Classical Mechanics](https://github.com/arindam-codes/build-to-learn-classical-mechanics)
