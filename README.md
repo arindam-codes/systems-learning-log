@@ -23,7 +23,7 @@ into working simulations, code, and experiments.
 
 ## First Principle Physics
 - Learning Physics 
-  → [Learning Physics from first principle](https://github.com/arindam-codes/first-principles-observations)
+  → [Learning Physics from first principle](https://github.com/arindam-codes/Physics-From-First-Principles)
 
 ---
 
