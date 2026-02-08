@@ -9,8 +9,8 @@ into working simulations, code, and experiments.
 ---
 
 ## Projects (Outcomes)
-- General Root Finder → https://github.com/arindam-codes/general-root-finder/tree/main
-- Law of Sines Visualizer → https://github.com/arindam-codes/Law-of-Sines-Visualizer/tree/main
+- [General Root Finder](https://github.com/arindam-codes/general-root-finder/tree/main)
+- [Law of Sines Visualizer](https://github.com/arindam-codes/Law-of-Sines-Visualizer/tree/main)
 
 ---
 
