@@ -30,8 +30,7 @@ into working simulations, code, and experiments.
 
 
 ## Embedded Systems & Microcontrollers
-- MicroPython GPIO and LED labs  
-  → https://github.com/arindam-codes/micropython-led-labs
+→ [MicroPython GPIO and LED labs](https://github.com/arindam-codes/micropython-led-labs)
 
 - Wokwi simulations (linked in project READMEs)
 
