@@ -21,6 +21,12 @@ into working simulations, code, and experiments.
 
 ---
 
+## First Principle Physics
+- Learning Physics 
+  → [Learning Physics from first principle](https://github.com/arindam-codes/first-principles-observations)
+
+---
+
 
 ## Embedded Systems & Microcontrollers
 - MicroPython GPIO and LED labs  
