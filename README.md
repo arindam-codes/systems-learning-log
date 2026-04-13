@@ -62,3 +62,14 @@ into working simulations, code, and experiments.
 → [Explore my Exploration](https://github.com/arindam-codes/Exploration-log)
 
 ---
+
+## 🔍 Keywords
+
+systems learning roadmap  
+computational physics projects python  
+engineering learning portfolio github  
+first principles physics learning  
+mathematics simulation projects  
+self taught engineer roadmap  
+cs learning journey github  
+python simulation projects  
