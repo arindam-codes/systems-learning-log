@@ -8,6 +8,15 @@ into working simulations, code, and experiments.
 
 ---
 
+## 👥 Who is this for?
+
+- Self-taught engineers building systems-level understanding  
+- Students learning physics, math, and CS through projects  
+- Developers interested in first-principles thinking  
+- Anyone creating a structured technical learning roadmap  
+
+---
+
 ## Projects (Outcomes)
 - [General Root Finder](https://github.com/arindam-codes/general-root-finder/tree/main)
 - [Law of Sines Visualizer](https://github.com/arindam-codes/Law-of-Sines-Visualizer/tree/main)
